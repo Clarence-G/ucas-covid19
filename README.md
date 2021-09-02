@@ -64,7 +64,7 @@ Github提供了一个secret功能，用于存储密钥等敏感信息，请按�
 使用步骤:
 - 点击右上角 `star` :)
 - 克隆这个仓库到你名下
-- fork的仓库默认禁用了`workflow`，需要手动打开：点击 `actions`选项卡，点击`I understand my workflows, go ahead and run them`。
+- fork的仓库默认禁用了`workflow`，需要手动打开：点击 `actions`选项卡，点击`I understand my workflows, go ahead and run them`。 点report。
 - 在仓库设置里面, 设置 secrets 如下
   - `SEP_USER_NAME`: 你的 SEP 用户名(邮箱)
   - `SEP_PASSWD`: 你的 SEP 密码
